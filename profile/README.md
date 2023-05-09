@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=GeneBANGS&style=plastic&color=blue) 
 <!-- # possiamo aggiungere il colore crs4 -->
 
-### Hi there, this is the solida-core project official repository! 👋
+### Hi there, this is the GeneBANGS official repository! 👋
 
 We are [Vincenzo](https://github.com/VincenzoRallo) and [Matteo](https://github.com/massiddamt), bioinformaticians respectively at [CNR-IRGB]() and the [University of Sassari]().
 
